@@ -20,7 +20,7 @@ def generate_market_report(db, filepath="output/05_informe_mercado.md"):
 
     region_counts = {}
     for p in scored:
-        loc = p.localizacion or "Desconocida"
+        loc = p.ciudad or p.provincia or "Desconocida"
         region_counts[loc] = region_counts.get(loc, 0) + 1
 
     problems = {}
@@ -75,20 +75,20 @@ def generate_action_plan(prospects, filepath="output/06_plan_accion.md"):
 
         for i, p in enumerate(prospects, 1):
             f.write(f"## {i}. {p.nombre_comercial or p.nombre_empresa}\n\n")
-            f.write(f"**Sector**: {p.sector} | **Localización**: {p.localizacion}\n")
+            f.write(f"**Sector**: {p.sector} | **Localización**: {p.ciudad}\n")
             f.write(f"**Score**: {p.score_total}/100 | **Prioridad**: {p.prioridad}\n\n")
 
-            f.write(f"**Por qué contactar**: {p.motivo_contacto or p.motivo_oportunidad}\n\n")
+            f.write(f"**Por qué contactar**: {p.motivo_contacto_ahora or p.descripcion_oportunidad}\n\n")
             f.write(f"**Servicio a ofrecer**: {p.servicio_potencial}\n\n")
             f.write(f"**Argumento comercial**: {p.argumento_comercial}\n\n")
             f.write(f"**Vía de contacto**: {p.via_contacto}\n\n")
 
-            if p.idea_proyecto:
-                f.write(f"**Idea de proyecto**: {p.idea_proyecto}\n\n")
-            if p.presupuesto_rango:
-                f.write(f"**Presupuesto orientativo**: {p.presupuesto_rango}\n\n")
+            if p.proyecto_potencial:
+                f.write(f"**Idea de proyecto**: {p.proyecto_potencial}\n\n")
+            if p.ticket_potencial:
+                f.write(f"**Presupuesto orientativo**: {p.ticket_potencial}\n\n")
 
-            f.write(f"**Mejor momento**: {p.mejor_momento or 'Ahora'}\n\n")
+            f.write(f"**Mejor momento**: Ahora\n\n")
             f.write(f"**Próximo paso**: Preparar presentación personalizada con análisis de su marca actual y propuesta de mejora.\n\n")
             f.write("---\n\n")
 
@@ -112,14 +112,14 @@ def generate_prospect_dossier(prospect, filepath=None):
         f.write(f"| Empresa | {p.nombre_empresa} |\n")
         f.write(f"| Nombre comercial | {p.nombre_comercial} |\n")
         f.write(f"| Sector | {p.sector} — {p.subsector} |\n")
-        f.write(f"| Localización | {p.localizacion}, {p.pais} |\n")
+        f.write(f"| Localización | {p.ciudad}, {p.pais} |\n")
         f.write(f"| Web | {p.url} |\n")
         f.write(f"| Instagram | {p.instagram} |\n")
         f.write(f"| LinkedIn | {p.linkedin} |\n")
         f.write(f"| Detectada | {p.fecha_deteccion} |\n\n")
 
         f.write("## Negocio\n\n")
-        f.write(f"- **Qué vende**: {p.que_vende}\n")
+        f.write(f"- **Qué vende**: {p.descripcion_negocio}\n")
         f.write(f"- **Público objetivo**: {p.publico_objetivo}\n")
         f.write(f"- **Posicionamiento**: {p.posicionamiento}\n")
         f.write(f"- **Modelo de negocio**: {p.modelo_negocio}\n")
@@ -150,10 +150,10 @@ def generate_prospect_dossier(prospect, filepath=None):
         f.write(f"- **Señal detectada**: {p.senal_detectada}\n")
         f.write(f"- **Fecha señal**: {p.fecha_senal}\n")
         f.write(f"- **Fuente**: {p.fuente_senal}\n")
-        f.write(f"- **Motivo de oportunidad**: {p.motivo_oportunidad}\n")
+        f.write(f"- **Motivo de oportunidad**: {p.descripcion_oportunidad}\n")
         f.write(f"- **Servicio potencial**: {p.servicio_potencial}\n")
-        f.write(f"- **Idea de proyecto**: {p.idea_proyecto}\n")
-        f.write(f"- **Presupuesto potencial**: {p.presupuesto_rango}\n\n")
+        f.write(f"- **Idea de proyecto**: {p.proyecto_potencial}\n")
+        f.write(f"- **Presupuesto potencial**: {p.ticket_potencial}\n\n")
 
         f.write("## Scoring\n\n")
         f.write(f"| Dimensión | Puntos | Máximo |\n|---|---|---|\n")
