@@ -1,6 +1,6 @@
 # Soho Boutique Hotels
 
-**Score**: 56/100 — **Prioridad C**
+**Score**: 85/100 — **Prioridad A**
 
 ## Identificación
 
@@ -20,8 +20,8 @@
 - **Modelo**: Cadena hotelera en expansión
 - **Público**: Viajeros urbanos, turismo cultural y de negocios
 - **Posicionamiento**: Medio-alto
-- **Tamaño**: Mediana - 15+ hoteles
-- **Capacidad económica**: 
+- **Tamaño**: Mediana-grande, cadena de 30+ hoteles con plan de expansión agresivo
+- **Capacidad económica**: Cadena mediana-grande con 30+ hoteles y plan de expansión agresivo. Capacidad de inversión demostrada con múltiples aperturas simultáneas.
 - **Competidores**: 
 
 ## Análisis de marca
@@ -42,7 +42,7 @@
 - **Señal**: Expansión: 15 nuevas aperturas en 2025, primera apertura en Murcia
 - **Fecha señal**: 2025-04-01
 - **Fuente**: Hosteltur / Andalucía Económica
-- **Descripción oportunidad**: 
+- **Descripción oportunidad**: Cadena hotelera malagueña en expansión agresiva: 15 nuevas aperturas planificadas 2025, entrada en Murcia (2027), tercer hotel en Marruecos (Casablanca 2026), nueva submarca Moon Dreams para vacacional. Necesita marca que soporte este crecimiento.
 
 ## BUAS Fit
 
@@ -53,13 +53,17 @@
 
 | Dimensión | Pts | Max |
 |---|---|---|
-| Encaje creativo | 20 | 25 |
-| Necesidad branding/digital | 6 | 20 |
-| Capacidad económica | 9 | 20 |
+| Encaje creativo | 23 | 25 |
+| Necesidad branding/digital | 20 | 20 |
+| Capacidad económica | 19 | 20 |
 | Momento oportunidad | 12 | 15 |
-| Potencial portfolio | 8 | 10 |
+| Potencial portfolio | 10 | 10 |
 | Accesibilidad comercial | 1 | 10 |
-| **TOTAL** | **56** | **100** |
+| **TOTAL** | **85** | **100** |
+
+## Argumento comercial
+
+Soho Boutique crece a un ritmo que requiere marca sólida: 15 aperturas/año, entrada internacional (Marruecos), nueva submarca vacacional. BUAS puede diseñar el sistema de marca que soporte este crecimiento sin perder identidad.
 
 ---
-*Fuente: Hosteltur, Andalucía Económica | Consulta:  | Verificado: Pendiente*
+*Fuente: Hosteltur, Andalucía Económica | Consulta: 2026-11-20 | Verificado: Pendiente*

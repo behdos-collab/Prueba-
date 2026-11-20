@@ -10,47 +10,48 @@ Fecha de generación: 20/11/2026
 
 - **Empresas descubiertas**: 335
 - **Empresas puntuadas**: 335
-- **Prioridad B**: 1
-- **Prioridad C**: 61
-- **Prioridad DESCARTAR**: 273
+- **Prioridad A**: 4
+- **Prioridad B**: 39
+- **Prioridad C**: 220
+- **Prioridad DESCARTAR**: 72
 
 ## Sectores con mayor potencial
 
 ### Alimentación y Bebidas
 
 - Empresas: 57
-- Score medio: 42/100
-- Score máximo: 65/100
-
-### Hospitality
-
-- Empresas: 65
-- Score medio: 37/100
-- Score máximo: 56/100
+- Score medio: 63/100
+- Score máximo: 84/100
 
 ### Cosmética y Belleza
 
 - Empresas: 58
-- Score medio: 36/100
-- Score máximo: 59/100
+- Score medio: 53/100
+- Score máximo: 76/100
+
+### Hospitality
+
+- Empresas: 65
+- Score medio: 51/100
+- Score máximo: 85/100
 
 ### Moda y Lifestyle
 
 - Empresas: 56
-- Score medio: 35/100
-- Score máximo: 53/100
+- Score medio: 51/100
+- Score máximo: 81/100
 
 ### Tecnología y B2B
 
 - Empresas: 43
-- Score medio: 33/100
-- Score máximo: 48/100
+- Score medio: 45/100
+- Score máximo: 65/100
 
 ### Arquitectura y Real Estate
 
 - Empresas: 56
-- Score medio: 31/100
-- Score máximo: 43/100
+- Score medio: 44/100
+- Score máximo: 57/100
 
 ## Territorios con mejores oportunidades
 
@@ -73,15 +74,15 @@ Fecha de generación: 20/11/2026
 ## Señales de oportunidad más frecuentes
 
 - **Recomendación Guía Michelin 2026**: 8 empresas
+- **Apertura de establecimientos, nuevas sedes, internacionalización**: 5 empresas
 - **Presencia en Feria Hábitat Valencia 2025**: 4 empresas
 - **Nueva apertura enero 2026**: 4 empresas
 - **Marca emergente streetwear**: 3 empresas
+- **Negocio que sube de nivel pero cuya marca no lo refleja**: 3 empresas
 - **Presencia en Alicante Gastronómica 2026**: 3 empresas
 - **Premio FAD Arquitectura 2026**: 2 empresas
 - **Estudio en crecimiento en Barcelona**: 2 empresas
 - **En listados de cosmética natural española**: 2 empresas
-- **Marca emergente 2025**: 2 empresas
-- **Presentación en Biocultura Madrid 2025 (IFEMA)**: 2 empresas
 
 ## Problemas de marca y digitales más recurrentes
 

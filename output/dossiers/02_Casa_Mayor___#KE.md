@@ -1,6 +1,6 @@
 # Casa Mayor / #KE
 
-**Score**: 61/100 — **Prioridad C**
+**Score**: 84/100 — **Prioridad A**
 
 ## Identificación
 
@@ -21,7 +21,7 @@
 - **Público**: Gran distribución, canal gourmet
 - **Posicionamiento**: Medio, con giro hacia premium y gourmet
 - **Tamaño**: Mediana-grande
-- **Capacidad económica**: 
+- **Capacidad económica**: Grupo consolidado (Mercadalia), facturación significativa, posición 183 empresas Valencia por ventas.
 - **Competidores**: Otros productores de frutos secos
 
 ## Análisis de marca
@@ -42,7 +42,7 @@
 - **Señal**: Lanzamiento nueva gama gourmet y mixes #KE
 - **Fecha señal**: 2026-01-01
 - **Fuente**: sweetpress.com (Alimentaria 2026)
-- **Descripción oportunidad**: Grupo que lanza línea gourmet y necesita imagen acorde
+- **Descripción oportunidad**: Grupo familiar valenciano con 80+ años (Mercadalia/Damel Group) que lanza nuevas líneas gourmet (#KE, Yummy Mix, Tuenty). Transición de marca industrial a posicionamiento gourmet/premium que necesita nueva identidad visual coherente.
 
 ## BUAS Fit
 
@@ -54,12 +54,16 @@
 | Dimensión | Pts | Max |
 |---|---|---|
 | Encaje creativo | 22 | 25 |
-| Necesidad branding/digital | 3 | 20 |
-| Capacidad económica | 12 | 20 |
+| Necesidad branding/digital | 18 | 20 |
+| Capacidad económica | 18 | 20 |
 | Momento oportunidad | 13 | 15 |
-| Potencial portfolio | 6 | 10 |
+| Potencial portfolio | 8 | 10 |
 | Accesibilidad comercial | 5 | 10 |
-| **TOTAL** | **61** | **100** |
+| **TOTAL** | **84** | **100** |
+
+## Argumento comercial
+
+BUAS puede diseñar la arquitectura de marca que unifique el portfolio Damel/Casa Mayor/#KE y posicione la transición gourmet.
 
 ## Contacto
 

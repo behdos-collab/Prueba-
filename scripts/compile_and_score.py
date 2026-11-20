@@ -56,6 +56,38 @@ def deduplicate(prospects):
     return unique
 
 
+def load_enrichment(filepath="data/prospects.json"):
+    """Load enrichment data from existing prospects.json (if any)."""
+    enrichment = {}
+    if not os.path.exists(filepath):
+        return enrichment
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        for item in data:
+            name = item.get("nombre_empresa", "").strip().lower()
+            if name:
+                enrichment[name] = item
+    except (json.JSONDecodeError, FileNotFoundError):
+        pass
+    return enrichment
+
+
+def merge_enrichment(base, enriched):
+    """Merge enriched fields into base dict — non-empty enriched values win."""
+    skip_fields = {"score_total", "score_encaje_creativo", "score_necesidad",
+                   "score_capacidad_economica", "score_momento", "score_portfolio",
+                   "score_accesibilidad", "prioridad"}
+    for key, val in enriched.items():
+        if key in skip_fields:
+            continue
+        if val and (val is not False or key == "verificado"):
+            base_val = base.get(key)
+            if not base_val or (isinstance(val, str) and len(val) > len(str(base_val or ""))):
+                base[key] = val
+    return base
+
+
 def main():
     os.chdir(os.path.join(os.path.dirname(__file__), ".."))
 
@@ -69,10 +101,25 @@ def main():
     raw = load_sector_files("data")
     print(f"   Total bruto: {len(raw)} registros")
 
+    # 1b. Cargar datos enriquecidos de prospects.json previo
+    print("\n1b. CARGANDO ENRIQUECIMIENTO PREVIO...")
+    enrichment = load_enrichment("data/prospects.json")
+    print(f"    Empresas con datos enriquecidos: {len(enrichment)}")
+
     # 2. Deduplicar
     print("\n2. DEDUPLICANDO...")
     unique = deduplicate(raw)
     print(f"   Tras deduplicación: {len(unique)} empresas únicas")
+
+    # 2b. Merge enrichment
+    print("\n2b. FUSIONANDO DATOS ENRIQUECIDOS...")
+    merged_count = 0
+    for item in unique:
+        name = item.get("nombre_empresa", "").strip().lower()
+        if name in enrichment:
+            merge_enrichment(item, enrichment[name])
+            merged_count += 1
+    print(f"    Empresas enriquecidas fusionadas: {merged_count}")
 
     # 3. Crear base de datos y aplicar scoring
     print("\n3. APLICANDO SCORING (6 dimensiones, 100 pts)...")

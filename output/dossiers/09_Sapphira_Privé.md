@@ -1,6 +1,6 @@
 # Sapphira Privé
 
-**Score**: 57/100 — **Prioridad C**
+**Score**: 76/100 — **Prioridad B**
 
 ## Identificación
 
@@ -20,8 +20,8 @@
 - **Modelo**: 
 - **Público**: 
 - **Posicionamiento**: Medio-alto, cadena premium
-- **Tamaño**: Grande, más de 70 centros en España, 16+ años
-- **Capacidad económica**: 
+- **Tamaño**: Grande, más de 70 centros en España, presencia Portugal y USA
+- **Capacidad económica**: Cadena grande con 70+ centros, 16+ años, presencia internacional (Portugal, USA). Capacidad de inversión demostrada.
 - **Competidores**: 
 
 ## Análisis de marca
@@ -42,7 +42,7 @@
 - **Señal**: 6 nuevas aperturas en Comunidad de Madrid, expansión constante
 - **Fecha señal**: 2026-01-01
 - **Fuente**: sapphiraprive.cl
-- **Descripción oportunidad**: 
+- **Descripción oportunidad**: Cadena de clínicas estéticas con 70+ centros en España, 16+ años. Presencia en Portugal y USA. Expansión constante con aperturas recientes en Madrid y Alicante.
 
 ## BUAS Fit
 
@@ -53,13 +53,17 @@
 
 | Dimensión | Pts | Max |
 |---|---|---|
-| Encaje creativo | 21 | 25 |
-| Necesidad branding/digital | 3 | 20 |
-| Capacidad económica | 12 | 20 |
+| Encaje creativo | 22 | 25 |
+| Necesidad branding/digital | 14 | 20 |
+| Capacidad económica | 16 | 20 |
 | Momento oportunidad | 13 | 15 |
-| Potencial portfolio | 7 | 10 |
+| Potencial portfolio | 10 | 10 |
 | Accesibilidad comercial | 1 | 10 |
-| **TOTAL** | **57** | **100** |
+| **TOTAL** | **76** | **100** |
+
+## Argumento comercial
+
+Sapphira tiene escala (70+ centros) pero la competencia crece (Dorsia, Elha+Láserum). Es el momento de reforzar la identidad premium. BUAS puede diseñar el sistema visual que mantenga la diferenciación.
 
 ---
-*Fuente: WebSearch: sapphiraprive.cl | Consulta:  | Verificado: Pendiente*
+*Fuente: WebSearch: sapphiraprive.cl | Consulta: 2026-11-20 | Verificado: Pendiente*

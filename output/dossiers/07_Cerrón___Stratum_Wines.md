@@ -1,6 +1,6 @@
 # Cerrón / Stratum Wines
 
-**Score**: 65/100 — **Prioridad B**
+**Score**: 77/100 — **Prioridad B**
 
 ## Identificación
 
@@ -42,7 +42,7 @@
 - **Señal**: Crecimiento, reconocimiento en Decanter, nuevas líneas premium
 - **Fecha señal**: 2026-01-01
 - **Fuente**: Decanter — Lighting up Levante
-- **Descripción oportunidad**: Bodega en crecimiento con múltiples marcas que necesitan coherencia visual y web a la altura de su producto
+- **Descripción oportunidad**: Bodega de Jumilla en pleno ascenso internacional: El Cerrico 2024 alcanza 100 puntos Tim Atkin (segunda vez), Matas Altas Blanco 94+ Parker, 96 Lobenberg. Jumilla nombrada Región del Año 2026. Producto de clase mundial que necesita marca a la misma altura.
 
 ## BUAS Fit
 
@@ -54,12 +54,16 @@
 | Dimensión | Pts | Max |
 |---|---|---|
 | Encaje creativo | 22 | 25 |
-| Necesidad branding/digital | 12 | 20 |
-| Capacidad económica | 9 | 20 |
+| Necesidad branding/digital | 20 | 20 |
+| Capacidad económica | 12 | 20 |
 | Momento oportunidad | 9 | 15 |
-| Potencial portfolio | 7 | 10 |
+| Potencial portfolio | 8 | 10 |
 | Accesibilidad comercial | 6 | 10 |
-| **TOTAL** | **65** | **100** |
+| **TOTAL** | **77** | **100** |
+
+## Argumento comercial
+
+Bodega en momento histórico: 100 puntos Tim Atkin, 94+ Parker, Jumilla Región del Año. Su marca no refleja este nivel. BUAS puede crear la identidad que iguale la excelencia del producto.
 
 ## Contacto
 

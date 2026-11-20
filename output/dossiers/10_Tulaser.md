@@ -1,6 +1,6 @@
 # Tulaser
 
-**Score**: 59/100 — **Prioridad C**
+**Score**: 74/100 — **Prioridad B**
 
 ## Identificación
 
@@ -21,7 +21,7 @@
 - **Público**: 
 - **Posicionamiento**: Medio-alto, cadena en crecimiento
 - **Tamaño**: Mediana-grande, más de 20 clínicas propias
-- **Capacidad económica**: 
+- **Capacidad económica**: Cadena de más de 20 clínicas propias con expansión vía franquicia. Presencia en centros El Corte Inglés.
 - **Competidores**: 
 
 ## Análisis de marca
@@ -53,13 +53,17 @@
 
 | Dimensión | Pts | Max |
 |---|---|---|
-| Encaje creativo | 18 | 25 |
-| Necesidad branding/digital | 9 | 20 |
-| Capacidad económica | 12 | 20 |
+| Encaje creativo | 20 | 25 |
+| Necesidad branding/digital | 18 | 20 |
+| Capacidad económica | 16 | 20 |
 | Momento oportunidad | 13 | 15 |
 | Potencial portfolio | 6 | 10 |
 | Accesibilidad comercial | 1 | 10 |
-| **TOTAL** | **59** | **100** |
+| **TOTAL** | **74** | **100** |
+
+## Argumento comercial
+
+Tulaser crece con 20+ centros y franquicias en El Corte Inglés. Su imagen no comunica la escala alcanzada.
 
 ---
-*Fuente: WebSearch: lexpress-franchise.com | Consulta:  | Verificado: Pendiente*
+*Fuente: WebSearch: lexpress-franchise.com | Consulta: 2026-11-20 | Verificado: Pendiente*
