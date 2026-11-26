@@ -14,7 +14,7 @@ Fecha: 26 de noviembre de 2026
 | Prioridad A (80-100) | 4 empresas |
 | Prioridad B (65-79) | 39 empresas |
 | Prioridad C (45-64) | 220 empresas |
-| Pipeline potencial estimado | 75.000–165.000€ (top 10) |
+| Pipeline potencial estimado | 97.000–224.000€ (top 10) |
 
 ---
 
@@ -25,6 +25,7 @@ Fecha: 26 de noviembre de 2026
 | **Packaging** | Etiquetas, envases, cajas, displays, PLV, presentaciones de producto | F&B, Cosmética, Moda (cajas calzado/joyería), Hospitality (amenities) | 3.000-12.000€ |
 | **Campañas de comunicación** | Campañas creativas, social media, publicidad, storytelling visual, lanzamientos | Todos los sectores — aperturas, lanzamientos, temporadas | 4.000-15.000€ |
 | **Creatividad en eventos y festivales** | Stands, escenografía, pop-ups, activaciones de marca, inauguraciones | Hospitality, Moda (pop-ups), F&B (ferias), Tech (stands) | 3.000-18.000€ |
+| **Diseño web / ecommerce** | Web corporativa, ecommerce DTC, landings de producto/evento, microsites | Todos — cada proyecto de packaging o campaña puede incluir web | 2.000-8.000€ |
 | **Dirección de arte** | Fotografía de producto, sesiones editoriales, vídeo, contenido visual | Complemento a packaging y campañas | 2.000-6.000€ |
 
 ---
@@ -33,16 +34,16 @@ Fecha: 26 de noviembre de 2026
 
 | # | Empresa | Sector | Score | Qué venderle | Ticket est. | Plazo |
 |---|---------|--------|-------|--------------|-------------|-------|
-| 1 | **Soho Boutique Hotels** | Hospitality | **85** A | Campañas apertura nuevos hoteles + Creatividad inauguraciones + Packaging amenities | 10-25K€ | Sem 1 |
-| 2 | **Casa Mayor / #KE** | F&B | **84** A | Rediseño packaging líneas #KE y Yummy Mix + Campaña lanzamiento gourmet | 8-18K€ | Sem 1 |
-| 3 | **Nude Project** | Moda | **81** A | Creatividad pop-ups y flagship + Campañas drops/colecciones + DA lookbooks | 10-20K€ | Sem 1 |
-| 4 | **Bollo** | F&B | **80** A | Rediseño packaging premium (Sabor del Año) + PLV punto de venta + Campaña | 8-15K€ | Sem 2 |
-| 5 | **Picualia** | F&B | **78** B | Rediseño etiquetas AOVE edición premio + Packaging gift box + Campaña internacional | 6-12K€ | Sem 2 |
-| 6 | **Mün Kombucha** | F&B | **78** B | Packaging nueva gama sabores (planta nueva) + Diseño botellas + Campaña | 6-14K€ | Sem 2 |
-| 7 | **Cerrón / Stratum** | F&B | **77** B | Rediseño etiquetas (100 pts Tim Atkin) + Packaging edición limitada + Campaña Jumilla | 5-10K€ | Sem 3 |
-| 8 | **The Bank Hotel** | Hospitality | **77** B | Campaña apertura 5* Gran Lujo + Creatividad inauguración + Packaging amenities lujo | 10-20K€ | Sem 3 |
-| 9 | **Sapphira Privé** | Cosmética | **76** B | Campañas aperturas Madrid (6 centros) + Creatividad inauguraciones + Packaging kits | 8-16K€ | Sem 3 |
-| 10 | **Tulaser** | Cosmética | **74** B | Campañas El Corte Inglés + Creatividad stands/corners retail + Packaging kits | 6-14K€ | Sem 4 |
+| 1 | **Soho Boutique Hotels** | Hospitality | **85** A | Campañas apertura + Creatividad inauguraciones + Packaging amenities + Microsites por hotel | 12-30K€ | Sem 1 |
+| 2 | **Casa Mayor / #KE** | F&B | **84** A | Rediseño packaging #KE y Yummy Mix + Campaña lanzamiento + Web/ecommerce DTC gourmet | 10-23K€ | Sem 1 |
+| 3 | **Nude Project** | Moda | **81** A | Creatividad pop-ups + Campañas drops + DA lookbooks + Microsites colecciones | 12-25K€ | Sem 1 |
+| 4 | **Bollo** | F&B | **80** A | Rediseño packaging (Sabor del Año) + PLV + Campaña + Landing premio + rediseño web | 10-20K€ | Sem 2 |
+| 5 | **Picualia** | F&B | **78** B | Etiquetas edición premio + Gift box + Campaña + Web/ecommerce DTC AOVE | 8-17K€ | Sem 2 |
+| 6 | **Mün Kombucha** | F&B | **78** B | Packaging nueva gama + Botellas + Campaña + Rediseño web con nueva gama | 8-19K€ | Sem 2 |
+| 7 | **Cerrón / Stratum** | F&B | **77** B | Etiquetas (100 pts Tim Atkin) + Ed. limitada + Campaña Jumilla + Web enoturismo/ecommerce | 7-15K€ | Sem 3 |
+| 8 | **The Bank Hotel** | Hospitality | **77** B | Campaña apertura 5* + Creatividad inauguración + Amenities lujo + Landing pre-apertura | 12-25K€ | Sem 3 |
+| 9 | **Sapphira Privé** | Cosmética | **76** B | Campañas 6 aperturas Madrid + Inauguraciones + Packaging kits + Landings por centro | 10-21K€ | Sem 3 |
+| 10 | **Tulaser** | Cosmética | **74** B | Campañas ECI + Stands/corners + Packaging kits + Landings tratamientos por centro | 8-19K€ | Sem 4 |
 
 ---
 
@@ -89,53 +90,53 @@ Fecha: 26 de noviembre de 2026
 
 ### 1. Soho Boutique Hotels (85 pts)
 > **¿Por qué ahora?** 15 nuevas aperturas, entrada en Murcia (2027), nueva submarca Moon Dreams, expansión a Marruecos.
-> **Qué venderle**: Campañas de apertura para cada hotel + creatividad para inauguraciones + diseño packaging amenities Soho y Moon Dreams.
-> **Argumento**: "Cada apertura es un evento. BUAS® crea la campaña visual y la experiencia de inauguración que convierte cada hotel en noticia."
+> **Qué venderle**: Campañas de apertura + creatividad inauguraciones + packaging amenities + microsite por hotel nuevo.
+> **Argumento**: "Cada apertura es un evento. BUAS® crea la campaña, la experiencia de inauguración, el packaging amenities y el microsite que convierte cada hotel en noticia."
 
 ### 2. Casa Mayor / #KE (84 pts)
 > **¿Por qué ahora?** Grupo familiar de 80+ años lanza líneas gourmet (#KE, Yummy Mix, Tuenty). Transición de marca industrial a premium.
-> **Qué venderle**: Rediseño packaging completo de las nuevas líneas + campaña de lanzamiento en retail.
-> **Argumento**: "El producto es premium pero el packaging no lo comunica. BUAS® diseña el packaging que posiciona #KE y Yummy Mix en el lineal gourmet."
+> **Qué venderle**: Rediseño packaging #KE y Yummy Mix + campaña lanzamiento retail + web/ecommerce DTC gama gourmet.
+> **Argumento**: "El producto es premium pero el packaging no lo comunica. BUAS® diseña el packaging, la campaña y el ecommerce que posiciona Casa Mayor como gourmet."
 
 ### 3. Nude Project (81 pts)
 > **¿Por qué ahora?** 11M€ ventas, 8+ países, flagship stores en expansión.
-> **Qué venderle**: Creatividad para pop-ups y flagship stores + campañas de drops/colecciones + dirección de arte lookbooks.
-> **Argumento**: "Las tiendas son la marca. BUAS® crea experiencias de tienda, pop-ups y comunicación de drops que convierten cada apertura en un evento."
+> **Qué venderle**: Creatividad pop-ups y flagship + campañas drops + DA lookbooks + microsites por colección/drop.
+> **Argumento**: "Las tiendas son la marca. BUAS® crea la experiencia, la comunicación de drops y los microsites que convierten cada lanzamiento en un evento."
 
 ### 4. Bollo (80 pts)
 > **¿Por qué ahora?** Top 5 marca de fruta en España, Premio Sabor del Año 2026.
-> **Qué venderle**: Rediseño packaging línea premium (aprovechando premio) + PLV punto de venta + campaña comunicación.
-> **Argumento**: "El premio es la puerta: BUAS® diseña el packaging y la comunicación que lo convierte en ventas en el punto de venta."
+> **Qué venderle**: Rediseño packaging premium (Sabor del Año) + PLV + campaña comunicación + landing premio + rediseño web.
+> **Argumento**: "El premio es la puerta: BUAS® diseña packaging, PLV, landing del premio y la web que convierte el reconocimiento en ventas."
 
 ### 5. Picualia (78 pts)
 > **¿Por qué ahora?** Mejor AOVE de España 2026. Décimo aniversario Primer Día de Cosecha.
-> **Qué venderle**: Rediseño etiquetas edición premio + packaging gift box premium + campaña comunicación internacional.
-> **Argumento**: "El Mejor AOVE de España merece la mejor etiqueta. BUAS® crea la edición especial y el packaging de exportación que eleva el premio a marca."
+> **Qué venderle**: Etiquetas edición premio + gift box premium + campaña internacional + web/ecommerce DTC AOVE premium.
+> **Argumento**: "El Mejor AOVE de España merece la mejor etiqueta, el mejor packaging y un ecommerce DTC que lo venda al mundo."
 
 ### 6. Mün Kombucha (78 pts)
 > **¿Por qué ahora?** Líder kombucha España, inversión 150K€ en planta nueva, acuerdo Sibbaris Privée.
-> **Qué venderle**: Packaging nueva gama de sabores + diseño botellas/etiquetas + campaña lanzamiento.
-> **Argumento**: "Nueva planta = nuevos formatos y sabores. BUAS® diseña el packaging coherente para toda la gama ampliada."
+> **Qué venderle**: Packaging nueva gama sabores + diseño botellas + campaña lanzamiento + rediseño web con nueva gama.
+> **Argumento**: "Nueva planta = nuevos sabores. BUAS® diseña el packaging, la web y la campaña que lanza la gama ampliada."
 
 ### 7. Cerrón / Stratum Wines (77 pts)
 > **¿Por qué ahora?** 100 puntos Tim Atkin (El Cerrico), Jumilla Región del Año 2026.
-> **Qué venderle**: Rediseño etiquetas colección + packaging edición limitada/coleccionista + campaña "Jumilla Región del Año".
-> **Argumento**: "100 puntos Tim Atkin y Jumilla Región del Año. BUAS® crea etiquetas y packaging a la altura del producto world-class. Y somos de aquí."
+> **Qué venderle**: Etiquetas colección + edición limitada Tim Atkin + campaña Jumilla Región del Año + web enoturismo/ecommerce DTC.
+> **Argumento**: "100 puntos Tim Atkin. BUAS® crea etiquetas, packaging, web y ecommerce a la altura del producto. Y somos de aquí."
 
 ### 8. The Bank Hotel (77 pts)
 > **¿Por qué ahora?** Nuevo 5* Gran Lujo en Valencia, 102 habitaciones en antiguo Banco de Valencia.
-> **Qué venderle**: Campaña de apertura + creatividad evento inauguración + packaging amenities hotel de lujo.
-> **Argumento**: "Una apertura 5* Gran Lujo es un evento de primer nivel. BUAS® crea la campaña, la experiencia de inauguración y el packaging amenities."
+> **Qué venderle**: Campaña apertura + creatividad inauguración + packaging amenities lujo + landing pre-apertura The Bank.
+> **Argumento**: "5* Gran Lujo = evento de primer nivel. BUAS® crea campaña, inauguración, amenities y la landing que genera expectativa."
 
 ### 9. Sapphira Privé (76 pts)
 > **¿Por qué ahora?** 70+ centros, 6 nuevas aperturas Madrid, competencia creciente.
-> **Qué venderle**: Campañas comunicación para 6 aperturas + creatividad inauguraciones + packaging kits producto/bienvenida.
-> **Argumento**: "6 aperturas simultáneas en Madrid = una campaña potente. BUAS® crea la comunicación y experiencia de inauguración de cada centro."
+> **Qué venderle**: Campañas 6 aperturas Madrid + creatividad inauguraciones + packaging kits + landings por centro.
+> **Argumento**: "6 aperturas Madrid = campaña potente. BUAS® crea comunicación, inauguraciones, kits y landings para cada centro."
 
 ### 10. Tulaser (74 pts)
 > **¿Por qué ahora?** 20+ clínicas + presencia El Corte Inglés.
-> **Qué venderle**: Campañas comunicación presencia El Corte Inglés + creatividad stands/corners retail + packaging kits tratamiento.
-> **Argumento**: "Estar en El Corte Inglés requiere presencia visual de primer nivel. BUAS® diseña stands, corners y campañas que convierten visitas en tratamientos."
+> **Qué venderle**: Campañas ECI + creatividad stands/corners + packaging kits + landings tratamientos por centro.
+> **Argumento**: "El Corte Inglés requiere presencia top. BUAS® diseña stands, campañas, kits y landings que convierten visitas en tratamientos."
 
 ---
 
@@ -145,6 +146,7 @@ Fecha: 26 de noviembre de 2026
 |----------------|----------------|----------------|---------------|
 | **Packaging** | Damel, Bollo, Picualia, Mün, Cerrón, MYR (amenities), Sapphira, Tulaser | 30+ empresas F&B + Cosmética | 150+ empresas |
 | **Campañas de comunicación** | Las 10 | Las 50 | 335 empresas |
+| **Diseño web / ecommerce** | Las 10 (microsites, landings, ecommerce DTC) | Las 50 | 335 empresas |
 | **Creatividad eventos/festivales** | Soho, Nude, MYR, Sapphira, Tulaser | 25+ empresas Hospitality + Moda | 149 empresas |
 | **Dirección de arte** | Nude, Damel, Bollo, Picualia, Mün, Cerrón | 20+ empresas | 150+ empresas |
 

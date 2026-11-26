@@ -92,6 +92,18 @@ Usar `09_directorio_contactos_completo.csv` para ir ampliando:
 | **Feria sectorial** | Diseño stand, material, activación | Tech/B2B: stands en 4YFN, South Summit |
 | **Evento gastronómico** | Concepto, dirección de arte, comunicación | Grupo Gastro Trinquet: eventos gastronómicos |
 
+### DISEÑO WEB / ECOMMERCE — Para todos los sectores
+
+| Tipo de web | Qué ofrecemos | Ejemplo |
+|------------|--------------|---------|
+| **Web corporativa** | Diseño y desarrollo web de marca | Bollo: rediseño web corporativa post-premio |
+| **Ecommerce DTC** | Tienda online venta directa al consumidor | Picualia: ecommerce AOVE premium + edición especial |
+| **Landings de producto/evento** | Páginas específicas para lanzamientos o eventos | MYR: landing pre-apertura The Bank Hotel |
+| **Microsites** | Webs independientes para líneas, colecciones o aperturas | Soho: microsite por cada hotel nuevo |
+| **Web enoturismo** | Web bodega + experiencia de visita + ecommerce | Cerrón: web enoturismo + ecommerce DTC vinos |
+| **Web restaurante** | Web gastronómica + sistema reservas online | Evaristo 33: web + reservas online |
+| **Catálogo digital B2B** | Web orientada a distribuidores y profesionales | Jimbofresh: catálogo exportación digital |
+
 ---
 
 ## Sistema de puntuación (cómo leer los scores)
@@ -151,14 +163,14 @@ El archivo `09_directorio_contactos_completo.csv` se puede abrir en Excel/Google
 
 ## Sectores cubiertos y qué vender en cada uno
 
-| Sector | Empresas | Servicio principal | Servicio complementario |
-|--------|----------|-------------------|------------------------|
-| **Alimentación y Bebidas** | 57 | **Packaging** (etiquetas, envases, displays) | Campañas comunicación, Dirección de arte producto |
-| **Cosmética y Belleza** | 58 | **Packaging** (cosmética, kits) + **Campañas** | Creatividad inauguraciones centros |
-| **Hospitality** | 65 | **Campañas** (aperturas, temporada) + **Creatividad eventos** | Packaging amenities, DA gastro |
-| **Moda y Lifestyle** | 56 | **Campañas** (drops, colecciones) + **Creatividad** (pop-ups) | Packaging (cajas calzado, joyería), DA lookbooks |
-| **Arquitectura y Real Estate** | 56 | **Campañas** (lanzamiento proyectos) | Creatividad inauguraciones, Packaging comercial |
-| **Tecnología y B2B** | 43 | **Campañas** comunicación + **Creatividad** (stands) | Material ferias/eventos |
+| Sector | Empresas | Servicio principal | Web | Complementario |
+|--------|----------|-------------------|-----|----------------|
+| **Alimentación y Bebidas** | 57 | **Packaging** + **Campañas** | Ecommerce DTC, web producto | DA producto |
+| **Cosmética y Belleza** | 58 | **Packaging** + **Campañas** | Web marca + ecommerce | Creatividad inauguraciones |
+| **Hospitality** | 65 | **Campañas** + **Creatividad eventos** | Microsites hotel, landings apertura | Packaging amenities |
+| **Moda y Lifestyle** | 56 | **Campañas** + **Creatividad** (pop-ups) | Ecommerce, microsites colección | DA lookbooks |
+| **Arquitectura y Real Estate** | 56 | **Campañas** (lanzamiento) | Web portfolio, landings proyecto | Creatividad inauguraciones |
+| **Tecnología y B2B** | 43 | **Campañas** + **Creatividad** (stands) | Web corporativa, landing producto | Material ferias |
 
 ---
 

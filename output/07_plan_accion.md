@@ -14,6 +14,7 @@ Para cada empresa se define: qué venderle (servicio concreto BUAS®), por qué 
 - **Packaging**: etiquetas, envases, cajas, displays, PLV, amenities
 - **Campañas de comunicación**: campañas creativas, social media, publicidad, lanzamientos
 - **Creatividad en eventos/festivales**: stands, escenografía, pop-ups, activaciones, inauguraciones
+- **Diseño web / ecommerce**: web corporativa, ecommerce DTC, landings, microsites
 - **Dirección de arte**: fotografía de producto, sesiones editoriales, vídeo
 
 ---
@@ -26,8 +27,9 @@ Para cada empresa se define: qué venderle (servicio concreto BUAS®), por qué 
 - **Campañas de apertura** para cada nuevo hotel (4-8K€/apertura)
 - **Creatividad inauguraciones** — concepto visual, escenografía, activación (3-6K€/evento)
 - **Packaging amenities** — diseño línea Soho Boutique + Moon Dreams (3-6K€/marca)
+- **Microsites por hotel** — landing/microsite para cada nueva apertura (2-4K€/hotel)
 
-**Ticket total estimado**: 10.000-25.000€
+**Ticket total estimado**: 12.000-30.000€
 
 **Por qué ahora**: 15 nuevas aperturas, entrada en Murcia (2027), submarca Moon Dreams, expansión a Casablanca.
 
@@ -47,8 +49,9 @@ Para cada empresa se define: qué venderle (servicio concreto BUAS®), por qué 
 - **Rediseño packaging #KE** — bolsas snacks premium, displays, PLV (3-6K€)
 - **Rediseño packaging Yummy Mix** — formatos retail, displays (3-5K€)
 - **Campaña lanzamiento gourmet** — comunicación visual del salto industrial→premium (4-7K€)
+- **Web/ecommerce DTC gourmet** — tienda online Casa Mayor gama gourmet (3-5K€)
 
-**Ticket total estimado**: 8.000-18.000€
+**Ticket total estimado**: 10.000-23.000€
 
 **Por qué ahora**: Grupo de 80+ años lanzando líneas gourmet (#KE, Yummy Mix). El packaging actual es industrial, el producto es premium.
 
@@ -68,8 +71,9 @@ Para cada empresa se define: qué venderle (servicio concreto BUAS®), por qué 
 - **Creatividad pop-ups y flagship** — diseño experiencial de tiendas (5-10K€)
 - **Campañas drops/colecciones** — comunicación visual de lanzamientos (3-6K€/drop)
 - **Dirección de arte lookbooks** — sesiones editoriales, fotografía (2-4K€/sesión)
+- **Microsites colecciones** — web por drop/colección especial (2-3K€)
 
-**Ticket total estimado**: 10.000-20.000€
+**Ticket total estimado**: 12.000-25.000€
 
 **Por qué ahora**: 11M€ ventas, 8+ países, flagship stores en expansión. Las tiendas son la marca.
 
@@ -89,8 +93,9 @@ Para cada empresa se define: qué venderle (servicio concreto BUAS®), por qué 
 - **Rediseño packaging línea premio** — etiquetas, sellos, formatos premium retail (3-6K€)
 - **PLV y material punto de venta** — displays, stoppers, cartelería lineal (2-4K€)
 - **Campaña comunicación "Sabor del Año"** — redes sociales, publicidad retail, B2B (3-5K€)
+- **Landing premio + rediseño web** — landing "Sabor del Año" + web corporativa (3-5K€)
 
-**Ticket total estimado**: 8.000-15.000€
+**Ticket total estimado**: 10.000-20.000€
 
 **Por qué ahora**: Premio Sabor del Año 2026. Top 5 marca de fruta en España. Empresa murciana = cercanía.
 
@@ -110,8 +115,9 @@ Para cada empresa se define: qué venderle (servicio concreto BUAS®), por qué 
 - **Etiquetas edición "Mejor AOVE España"** — botella limitada conmemorativa (2.500-4K€)
 - **Packaging gift box premium** — caja regalo para gourmet, horeca y exportación (2-4K€)
 - **Campaña comunicación internacional** — storytelling del premio para mercados internacionales (2-4K€)
+- **Web/ecommerce DTC AOVE** — tienda online AOVE premium + landing edición especial (3-5K€)
 
-**Ticket total estimado**: 6.000-12.000€
+**Ticket total estimado**: 8.000-17.000€
 
 **Por qué ahora**: Mejor AOVE de España 2026. Décimo aniversario Primer Día de Cosecha.
 
@@ -173,8 +179,9 @@ Para cada empresa se define: qué venderle (servicio concreto BUAS®), por qué 
 - **Campaña apertura The Bank Hotel** — comunicación pre-opening y lanzamiento (5-8K€)
 - **Creatividad evento inauguración** — concepto visual, escenografía, invitaciones (3-6K€)
 - **Packaging amenities lujo** — línea amenities 5* Gran Lujo (3-6K€)
+- **Landing pre-apertura** — web teaser/expectativa antes de la apertura (2-4K€)
 
-**Ticket total estimado**: 10.000-20.000€
+**Ticket total estimado**: 12.000-25.000€
 
 **Por qué ahora**: Nuevo 5* Gran Lujo en Valencia. Edificio histórico (antiguo Banco de Valencia). 102 habitaciones.
 
@@ -194,8 +201,9 @@ Para cada empresa se define: qué venderle (servicio concreto BUAS®), por qué 
 - **Campañas 6 aperturas Madrid** — campaña paraguas + adaptación local (4-8K€)
 - **Creatividad inauguraciones** — eventos, invitaciones, activación (2-4K€/centro)
 - **Packaging kits producto/bienvenida** — estuches, bolsas de marca premium (2-4K€)
+- **Landings por centro** — página por cada nueva apertura en Madrid (2-4K€)
 
-**Ticket total estimado**: 8.000-16.000€
+**Ticket total estimado**: 10.000-21.000€
 
 **Por qué ahora**: 6 nuevas aperturas simultáneas en Madrid. Competencia creciente (Dorsia, Elha).
 
@@ -215,8 +223,9 @@ Para cada empresa se define: qué venderle (servicio concreto BUAS®), por qué 
 - **Campañas El Corte Inglés** — cartelería, pantallas, material POS, promociones (3-6K€)
 - **Creatividad stands/corners** — diseño corner El Corte Inglés (3-5K€)
 - **Packaging kits tratamiento** — estuches, material corporativo (2-3K€)
+- **Landings tratamientos** — páginas por centro y por tratamiento (2-4K€)
 
-**Ticket total estimado**: 6.000-14.000€
+**Ticket total estimado**: 8.000-19.000€
 
 **Por qué ahora**: 20+ clínicas + presencia en El Corte Inglés. Corner retail necesita presencia visual de primer nivel.
 
@@ -232,12 +241,12 @@ Para cada empresa se define: qué venderle (servicio concreto BUAS®), por qué 
 
 | Semana | Empresas | Servicio principal | Ticket total sem. |
 |--------|----------|--------------------|-------------------|
-| 1 | Soho, Casa Mayor/#KE, Nude Project | Campañas + Packaging + Creatividad pop-ups | 28-63K€ |
-| 2 | Bollo, Picualia, Mün | Packaging + Campañas comunicación | 20-41K€ |
-| 3 | Cerrón, The Bank, Sapphira | Packaging etiquetas + Campañas apertura + Inauguraciones | 23-46K€ |
-| 4 | Tulaser + follow-up | Stands/corners + Campañas retail | 6-14K€ + seguimiento |
+| 1 | Soho, Casa Mayor/#KE, Nude Project | Campañas + Packaging + Creatividad + Web | 34-78K€ |
+| 2 | Bollo, Picualia, Mün | Packaging + Campañas + Web/ecommerce | 26-56K€ |
+| 3 | Cerrón, The Bank, Sapphira | Packaging + Campañas + Inauguraciones + Web | 29-61K€ |
+| 4 | Tulaser + follow-up | Stands + Campañas + Landings | 8-19K€ + seguimiento |
 
-**Pipeline total top 10**: 75.000-165.000€
+**Pipeline total top 10**: 97.000-224.000€
 
 ---
 

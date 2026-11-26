@@ -30,6 +30,10 @@ Botella especial 100 puntos: estuche, contraetiqueta, caja de madera
 ### Campaña 'Jumilla Región del Año' (1.500-3.000€)
 Comunicación del reconocimiento: redes, material horeca, eventos
 
+
+### Web enoturismo + ecommerce DTC (2-4K€)
+Web con experiencia enoturismo, historia de la bodega y venta directa de vinos premium
+
 **Ticket total estimado: 5.000-10.000€**
 
 ---

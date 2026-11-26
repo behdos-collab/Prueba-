@@ -30,6 +30,10 @@ Caja regalo para canal gourmet, horeca y exportación
 ### Campaña comunicación internacional (2.000-4.000€)
 Storytelling del premio para mercados internacionales y canal horeca
 
+
+### Web/ecommerce DTC AOVE premium (3-5K€)
+Tienda online AOVE con edición especial, storytelling de origen y envío internacional
+
 **Ticket total estimado: 6.000-12.000€**
 
 ---

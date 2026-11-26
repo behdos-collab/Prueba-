@@ -30,6 +30,10 @@ Concepto visual del evento: escenografía, invitaciones, activación, cobertura
 ### Packaging amenities lujo (3.000-6.000€)
 Diseño línea amenities 5* Gran Lujo: jabones, champús, papelería, bolsas, amenities premium
 
+
+### Landing pre-apertura The Bank (2-4K€)
+Web teaser/expectativa antes de la apertura con galería del edificio histórico y sistema de pre-reserva
+
 **Ticket total estimado: 10.000-20.000€**
 
 ---

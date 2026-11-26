@@ -30,6 +30,10 @@ Packaging nueva línea: formatos retail, displays, comunicación en lineal
 ### Campaña lanzamiento gourmet (4.000-7.000€)
 Comunicación visual del salto de Damel a Casa Mayor gourmet: redes, publicidad, evento de presentación
 
+
+### Web/ecommerce DTC gama gourmet (3-5K€)
+Tienda online Casa Mayor con líneas #KE, Yummy Mix y Tuenty — venta directa al consumidor final
+
 **Ticket total estimado: 8.000-18.000€**
 
 ---

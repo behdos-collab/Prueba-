@@ -30,6 +30,14 @@ Diseño de corner/stand en El Corte Inglés: layout, señalética, displays, ilu
 ### Packaging kits tratamiento (2.000-3.000€)
 Diseño de kits de tratamiento, estuches pre y post, material corporativo
 
+
+### Landings por centro Madrid (2-4K€)
+Página por cada nueva apertura en Madrid con servicios, equipo y sistema de cita online
+
+
+### Landings tratamientos por centro (2-4K€)
+Páginas por centro y por tratamiento con precios, antes/después y booking online
+
 **Ticket total estimado: 6.000-14.000€**
 
 ---

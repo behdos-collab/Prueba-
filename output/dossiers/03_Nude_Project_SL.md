@@ -30,6 +30,10 @@ Comunicación visual de lanzamientos: creatividad redes, vídeo, street marketin
 ### Dirección de arte lookbooks (2.000-4.000€/sesión)
 Sesiones editoriales, fotografía, vídeo de colecciones
 
+
+### Microsites drops y colecciones (2-3K€)
+Web/microsite por cada drop o colección especial con cuenta atrás, lookbook y compra directa
+
 **Ticket total estimado: 10.000-20.000€**
 
 ---

@@ -30,6 +30,10 @@ Concepto visual del evento, escenografía, invitaciones, activación de marca, c
 ### Packaging amenities (3.000-6.000€/marca)
 Diseño línea amenities hotel (jabones, champús, bolsas, papelería) para Soho Boutique y Moon Dreams
 
+
+### Microsites por hotel nuevo (2-4K€/hotel)
+Landing/microsite para cada apertura con teaser visual, galería y sistema de reserva directa
+
 **Ticket total estimado: 10.000-25.000€**
 
 ---

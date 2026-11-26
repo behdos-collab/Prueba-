@@ -30,6 +30,10 @@ Sistema gráfico para etiquetas que funcione con 10+ sabores sin perder coherenc
 ### Campaña lanzamiento gama (2.000-4.000€)
 Comunicación de los nuevos sabores: redes, activaciones, evento de presentación
 
+
+### Rediseño web con nueva gama (2-4K€)
+Web actualizada con la gama ampliada de sabores, storytelling de fermentación y puntos de venta
+
 **Ticket total estimado: 6.000-14.000€**
 
 ---

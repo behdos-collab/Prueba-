@@ -30,7 +30,10 @@ Concepto visual inauguración: eventos, invitaciones, activación, decoración
 ### Packaging kits producto/bienvenida (2.000-4.000€)
 Diseño de kits de bienvenida, estuches de producto, bolsas de marca premium
 
-**Ticket total estimado: 8.000-16.000€**
+### Landings por centro Madrid (2-4K€)
+Página por cada nueva apertura en Madrid con servicios, equipo y sistema de cita online
+
+**Ticket total estimado: 10.000-21.000€**
 
 ---
 

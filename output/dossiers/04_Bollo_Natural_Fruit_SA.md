@@ -30,6 +30,10 @@ Displays, stoppers, colgantes, cartelería de lineal con sello premio
 ### Campaña comunicación premio (3.000-5.000€)
 Storytelling visual del premio: redes sociales, publicidad retail, material B2B
 
+
+### Landing 'Sabor del Año' + rediseño web (3-5K€)
+Landing específica del premio Sabor del Año 2026 + rediseño web corporativa acorde al nuevo posicionamiento
+
 **Ticket total estimado: 8.000-15.000€**
 
 ---
