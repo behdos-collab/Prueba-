@@ -9269,7 +9269,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "",
-    "via_contacto": "Email info@ (derivado de web) / LinkedIn",
+    "via_contacto": "Email verificado web oficial / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -9288,7 +9288,8 @@
     "verificado": false,
     "tipo_dato": "",
     "email_contacto": "info@arkhecosmetics.com",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Arkh%C3%A9"
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Arkh%C3%A9",
+    "telefono": "+34 938 608 111"
   },
   {
     "nombre_empresa": "Henna Morena Barcelona",
@@ -13569,7 +13570,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "",
-    "via_contacto": "Email info@ (derivado de web) / LinkedIn",
+    "via_contacto": "Web oficial + teléfono verificado / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -13588,7 +13589,8 @@
     "verificado": false,
     "tipo_dato": "",
     "email_contacto": "info@slowwalk.com",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Slowwalk"
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Slowwalk",
+    "telefono": "+34 966 651 009"
   },
   {
     "nombre_empresa": "Adeba",
@@ -14774,7 +14776,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "Web",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email verificado aviso legal / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -14793,7 +14795,8 @@
     "verificado": false,
     "tipo_dato": "",
     "email_contacto": "info@carchelo.com",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Carchelo"
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Carchelo",
+    "telefono": "+34 968 435 137"
   },
   {
     "nombre_empresa": "Bodegas Barahonda",
@@ -15032,7 +15035,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "Web",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email verificado aviso legal / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -15050,8 +15053,9 @@
     "notas": "",
     "verificado": false,
     "tipo_dato": "",
-    "email_contacto": "info@cellerdelroure.es",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Celler%20del%20Roure"
+    "email_contacto": "les@alcusses.es",
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Celler%20del%20Roure",
+    "telefono": "+34 962 295 020"
   },
   {
     "nombre_empresa": "Bodegas Aroa",
@@ -15118,7 +15122,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "Web",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email verificado AECOCTRADE / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -15136,8 +15140,9 @@
     "notas": "",
     "verificado": false,
     "tipo_dato": "",
-    "email_contacto": "info@aroawines.com",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Aroa"
+    "email_contacto": "eventos@aroawines.com",
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Aroa",
+    "telefono": "+34 948 921 867"
   },
   {
     "nombre_empresa": "Jaleo AOVE",
@@ -15204,7 +15209,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "Prensa",
-    "via_contacto": "Buscar contacto directo",
+    "via_contacto": "Email verificado web oficial benditojaleo.com",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -15223,7 +15228,8 @@
     "verificado": false,
     "tipo_dato": "",
     "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Jaleo",
-    "email_contacto": "info@jaleoaove.com"
+    "email_contacto": "info@benditojaleo.com",
+    "telefono": "+34 687 143 085"
   },
   {
     "nombre_empresa": "Grupo Olivex",
@@ -15290,7 +15296,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "Web corporativa",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email verificado web oficial / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -15309,7 +15315,8 @@
     "verificado": false,
     "tipo_dato": "",
     "email_contacto": "info@grupoolivex.com",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Olivex"
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Olivex",
+    "telefono": "+34 685 720 100"
   },
   {
     "nombre_empresa": "Picualia S.L.",
@@ -15721,7 +15728,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "Web corporativa, Alimentaria",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email verificado web oficial / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -15739,8 +15746,9 @@
     "notas": "",
     "verificado": false,
     "tipo_dato": "",
-    "email_contacto": "info@coato.com",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Coato"
+    "email_contacto": "coato@coato.com",
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Coato",
+    "telefono": "+34 968 424 621"
   },
   {
     "nombre_empresa": "Agrolarrosa",
@@ -16065,7 +16073,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "Web corporativa",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email verificado directorio / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -16083,8 +16091,9 @@
     "notas": "",
     "verificado": false,
     "tipo_dato": "EVIDENCIA",
-    "email_contacto": "info@dardo.es",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Dardo"
+    "email_contacto": "info@conservasdardo.com",
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Dardo",
+    "telefono": "+34 986 555 000"
   },
   {
     "nombre_empresa": "Frinsa del Noroeste S.A.",
@@ -16148,10 +16157,10 @@
     "score_total": 73,
     "prioridad": "B",
     "contacto_corporativo": "frinsa.es",
-    "nombre_decisor": "",
+    "nombre_decisor": "Juan Carlos Silva (Dir. Marketing)",
     "cargo_decisor": "",
     "fuente_contacto": "Web corporativa",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Web corporativa + LinkedIn Juan Carlos Silva",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -16922,10 +16931,10 @@
     "score_total": 70,
     "prioridad": "B",
     "contacto_corporativo": "basquelandbrewing.com",
-    "nombre_decisor": "",
+    "nombre_decisor": "Rozzi (Ventas y distribución)",
     "cargo_decisor": "",
     "fuente_contacto": "Web corporativa",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email ventas verificado web oficial / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -16943,7 +16952,7 @@
     "notas": "",
     "verificado": false,
     "tipo_dato": "",
-    "email_contacto": "info@basquelandbrewing.com",
+    "email_contacto": "rozzi@basquebeer.com",
     "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Basqueland"
   },
   {
@@ -17442,7 +17451,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "Web, Salón Gourmets",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email verificado web oficial / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -17460,8 +17469,9 @@
     "notas": "",
     "verificado": false,
     "tipo_dato": "",
-    "email_contacto": "info@essentiagourmetalicante.com",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Essentia%20Gourmet"
+    "email_contacto": "hola@essentiagourmetalicante.com",
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Essentia%20Gourmet",
+    "telefono": "+34 965 125 551"
   },
   {
     "nombre_empresa": "Baba Yaga Kombucha",
@@ -17873,7 +17883,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "Web corporativa",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email verificado web oficial / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -17892,7 +17902,8 @@
     "verificado": false,
     "tipo_dato": "",
     "email_contacto": "info@elnogal.com",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=El%20Nogal"
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=El%20Nogal",
+    "telefono": "+34 986 752 025"
   },
   {
     "nombre_empresa": "Aperitivos La Madrileña",
@@ -18128,10 +18139,10 @@
     "score_total": 72,
     "prioridad": "B",
     "contacto_corporativo": "simoncoll.com",
-    "nombre_decisor": "",
+    "nombre_decisor": "Rubén Benseny (Dir. Comercial)",
     "cargo_decisor": "",
     "fuente_contacto": "Web corporativa",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email marketing@ verificado en FAQ web / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -18149,8 +18160,9 @@
     "notas": "",
     "verificado": false,
     "tipo_dato": "",
-    "email_contacto": "info@simoncoll.com",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Chocolates%20Sim%C3%B3n%20Coll"
+    "email_contacto": "marketing@simoncoll.com",
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Chocolates%20Sim%C3%B3n%20Coll",
+    "telefono": "+34 938 911 100"
   },
   {
     "nombre_empresa": "Esir Compan",
@@ -18390,7 +18402,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "Web corporativa",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email verificado Empresite / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -18408,8 +18420,9 @@
     "notas": "",
     "verificado": false,
     "tipo_dato": "",
-    "email_contacto": "info@jimbofresh.com",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Jimbofresh"
+    "email_contacto": "jimbofresh@jimbofresh.com",
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Jimbofresh",
+    "telefono": "+34 968 972 390"
   },
   {
     "nombre_empresa": "Doctor Salsas",
@@ -18820,7 +18833,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "Web corporativa",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email verificado web oficial caldoaneto.com",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -18838,8 +18851,9 @@
     "notas": "",
     "verificado": false,
     "tipo_dato": "",
-    "email_contacto": "info@aneto.com",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Aneto"
+    "email_contacto": "oficina@anetonatural.com",
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Aneto",
+    "telefono": "+34 938 305 026"
   },
   {
     "nombre_empresa": "Oleum Hispania S.L.",
@@ -18992,7 +19006,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "Web corporativa",
-    "via_contacto": "Email corporativo",
+    "via_contacto": "Email verificado aviso legal / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -19010,8 +19024,9 @@
     "notas": "",
     "verificado": false,
     "tipo_dato": "",
-    "email_contacto": "info@bodegalaus.es",
-    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Laus"
+    "email_contacto": "bodega.laus@grupoenate.es",
+    "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Laus",
+    "telefono": "+34 974 269 708"
   },
   {
     "nombre_empresa": "Vitium Pistachios",
@@ -20628,7 +20643,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "",
-    "via_contacto": "Email info@ (derivado de web) / LinkedIn",
+    "via_contacto": "Email verificado web oficial / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -20646,7 +20661,7 @@
     "notas": "",
     "verificado": false,
     "tipo_dato": "",
-    "email_contacto": "info@casualhoteles.com",
+    "email_contacto": "hola@casualhoteles.com",
     "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Casual%20Hoteles"
   },
   {
@@ -24498,7 +24513,7 @@
     "nombre_decisor": "",
     "cargo_decisor": "",
     "fuente_contacto": "",
-    "via_contacto": "Email info@ / LinkedIn",
+    "via_contacto": "Email verificado web oficial (Marriott Tribute) / LinkedIn",
     "estado_comercial": "Nuevo",
     "proxima_accion": "",
     "fecha_revision": "",
@@ -24517,7 +24532,8 @@
     "verificado": false,
     "tipo_dato": "",
     "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Confidencia",
-    "email_contacto": "info@confidenciahotel.com"
+    "email_contacto": "reception@confidenciasevilla.com",
+    "telefono": "+34 854 689 935"
   },
   {
     "nombre_empresa": "Thompson Sevilla (Hyatt)",
