@@ -33,7 +33,7 @@ Este paquete contiene una **base de datos de 335 empresas españolas** investiga
 
 ### PASO 1 — Leer la Hoja de Acción (5 min)
 Abrir `00_HOJA_DE_ACCION.md`. Contiene:
-- Las 10 empresas prioritarias con acción inmediata
+- Las 10 empresas prioritarias con **qué venderle a cada una** (propuesta concreta)
 - Calendario de 4 semanas
 - Argumento clave de cada empresa ("¿por qué ahora?")
 
@@ -57,16 +57,53 @@ Usar `09_directorio_contactos_completo.csv` para ir ampliando:
 
 ---
 
+## Qué servicios BUAS® ofrecer a cada tipo de empresa
+
+### PACKAGING — Lo que más hacemos en F&B y Cosmética
+
+| Tipo de empresa | Qué ofrecemos concretamente | Ejemplo |
+|----------------|---------------------------|---------|
+| **Bodegas** | Etiquetas, contraetiquetas, estuches, cajas madera | Bodega Cerrón: etiquetas colección + edición limitada Tim Atkin |
+| **AOVE** | Botella, etiqueta, caja regalo, formato exportación | Picualia: etiqueta edición "Mejor AOVE España" + gift box |
+| **Cerveza artesanal** | Latas, botellas, packs degustación | Basqueland: diseño latas nuevas referencias + packs |
+| **Chocolate/gourmet** | Tabletas, cajas bombones, displays, ediciones estacionales | Simón Coll: packaging navideño y ediciones limitadas |
+| **Conservas** | Latas, etiquetas, estuches gourmet | Frinsa/Dardo: packaging premium conservas gallegas |
+| **Cosmética** | Botes, cajas, displays salón, kits tratamiento | Arkhé: packaging gama capilar profesional |
+| **Hoteles** | Amenities (jabón, champú, bolsas), welcome kits | Soho/MYR: amenities de marca para cada hotel |
+| **Moda/joyería** | Cajas calzado, estuches joyería, bolsas de marca | Slowwalk: cajas eco-coherentes calzado sostenible |
+
+### CAMPAÑAS DE COMUNICACIÓN — Para todos los sectores
+
+| Situación | Qué ofrecemos | Ejemplo |
+|-----------|--------------|---------|
+| **Apertura/lanzamiento** | Campaña 360: redes, publicidad, material POS | Soho: campaña apertura Murcia 2027 |
+| **Premio/reconocimiento** | Comunicación del logro en todos los canales | Bollo: campaña "Sabor del Año 2026" |
+| **Nueva línea de producto** | Lanzamiento: storytelling, visual, activación | Casa Mayor: lanzamiento línea gourmet #KE |
+| **Temporada** | Campañas estacionales (Navidad, verano, vendimia) | Torrons Vicens: campaña navideña |
+| **B2B/ferias** | Material corporativo, presentaciones, catálogos | Jimbofresh: material Fruit Attraction |
+
+### CREATIVIDAD EN EVENTOS Y FESTIVALES
+
+| Tipo de evento | Qué ofrecemos | Ejemplo |
+|---------------|--------------|---------|
+| **Inauguración hotel/tienda/centro** | Concepto visual, escenografía, invitaciones, activación | MYR: inauguración The Bank Hotel 5* |
+| **Pop-up / flagship** | Diseño de espacio, señalética, experiencia de marca | Nude Project: pop-ups + flagship stores |
+| **Festival / beach club** | Cartelería, escenografía, señalética, branding evento | Starlite: creatividad visual temporada |
+| **Feria sectorial** | Diseño stand, material, activación | Tech/B2B: stands en 4YFN, South Summit |
+| **Evento gastronómico** | Concepto, dirección de arte, comunicación | Grupo Gastro Trinquet: eventos gastronómicos |
+
+---
+
 ## Sistema de puntuación (cómo leer los scores)
 
 Cada empresa tiene un **score de 0 a 100** basado en 6 dimensiones:
 
 | Dimensión | Peso | Qué mide |
 |-----------|------|----------|
-| Encaje creativo | 25 pts | ¿Encaja con lo que hace BUAS? |
-| Necesidad branding/digital | 20 pts | ¿Necesitan renovar marca/web? |
+| Encaje creativo | 25 pts | ¿Encaja con lo que hace BUAS (packaging, campañas, eventos)? |
+| Necesidad branding/digital | 20 pts | ¿Necesitan renovar marca/packaging/comunicación? |
 | Capacidad económica | 20 pts | ¿Pueden pagar nuestros servicios? |
-| Momento oportunidad | 15 pts | ¿Hay un evento reciente que justifique contactar ahora? |
+| Momento oportunidad | 15 pts | ¿Hay un evento que justifique contactar ahora? |
 | Potencial portfolio | 10 pts | ¿Nos interesa como caso de éxito? |
 | Accesibilidad comercial | 10 pts | ¿Es fácil llegar al decisor? |
 
@@ -93,7 +130,9 @@ El archivo `09_directorio_contactos_completo.csv` se puede abrir en Excel/Google
 | `nombre_decisor` | Persona de contacto (cuando identificada) |
 | `linkedin_url` | URL de búsqueda en LinkedIn |
 | `url` | Web de la empresa |
-| `via_contacto` | Canal recomendado |
+| `servicio_potencial` | **Qué venderle concretamente** |
+| `propuesta_valor_personalizada` | **Por qué contactar y con qué argumento** |
+| `ticket_potencial` | Rango de precio estimado |
 
 **Filtrar por prioridad A y B** para obtener los 43 contactos más interesantes.
 
@@ -110,27 +149,16 @@ El archivo `09_directorio_contactos_completo.csv` se puede abrir en Excel/Google
 
 ---
 
-## Sectores cubiertos
+## Sectores cubiertos y qué vender en cada uno
 
-| Sector | Empresas | Foco BUAS |
-|--------|----------|-----------|
-| **Hospitality** | 65 | Hoteles boutique, restaurantes gastronómicos, experiencias |
-| **Cosmética y Belleza** | 58 | Marcas naturales, clínicas estéticas, cosmética profesional |
-| **Alimentación y Bebidas** | 57 | AOVE, bodegas, cerveza artesanal, chocolate, conservas |
-| **Arquitectura y Real Estate** | 56 | Estudios de arquitectura, promotoras, interiorismo |
-| **Moda y Lifestyle** | 56 | Streetwear, calzado, joyería, diseño de producto |
-| **Tecnología y B2B** | 43 | SaaS, proptech, healthtech, AI |
-
----
-
-## Servicios BUAS® a proponer
-
-| Tier | Rango precio | Para quién | Qué incluye |
-|------|-------------|------------|-------------|
-| **Brand Foundation** | 4.000-7.000€ | Startups, pymes pequeñas | Identidad básica + manual de marca |
-| **Brand & Digital** | 7.000-15.000€ | Pymes en crecimiento | Identidad + web + packaging |
-| **Brand Transformation** | 12.000-25.000€+ | Empresas consolidadas | Rebranding completo + estrategia + ecosistema digital |
-| **Creative Partner** | 1.000-3.000€/mes | Clientes recurrentes | Dirección de arte continuada |
+| Sector | Empresas | Servicio principal | Servicio complementario |
+|--------|----------|-------------------|------------------------|
+| **Alimentación y Bebidas** | 57 | **Packaging** (etiquetas, envases, displays) | Campañas comunicación, Dirección de arte producto |
+| **Cosmética y Belleza** | 58 | **Packaging** (cosmética, kits) + **Campañas** | Creatividad inauguraciones centros |
+| **Hospitality** | 65 | **Campañas** (aperturas, temporada) + **Creatividad eventos** | Packaging amenities, DA gastro |
+| **Moda y Lifestyle** | 56 | **Campañas** (drops, colecciones) + **Creatividad** (pop-ups) | Packaging (cajas calzado, joyería), DA lookbooks |
+| **Arquitectura y Real Estate** | 56 | **Campañas** (lanzamiento proyectos) | Creatividad inauguraciones, Packaging comercial |
+| **Tecnología y B2B** | 43 | **Campañas** comunicación + **Creatividad** (stands) | Material ferias/eventos |
 
 ---
 
@@ -141,6 +169,7 @@ El archivo `09_directorio_contactos_completo.csv` se puede abrir en Excel/Google
 3. **Verificar antes de contactar.** Especialmente los emails info@ — confirmar en la web de la empresa que sigue activo.
 4. **LinkedIn primero para empresas sin email verificado.** Buscar al responsable de marketing/dirección y enviar mensaje personalizado.
 5. **Argumento "¿por qué ahora?"** — Siempre incluir el motivo específico de contacto (premio recibido, apertura, expansión, etc.). Está en los dossiers y en la hoja de acción.
+6. **Propuesta concreta, no genérica.** No decir "ofrecemos branding" — decir "podemos diseñar el packaging de vuestra nueva línea de chocolates premium".
 
 ---
 
@@ -166,18 +195,18 @@ Cada dossier y cada entrada del top 30 responde a esta pregunta. Si no puedes re
 
 ## Resumen rápido del Top 10
 
-| # | Empresa | Email directo | Decisor | ¿Por qué ahora? |
-|---|---------|---------------|---------|------------------|
-| 1 | Soho Boutique Hotels | info@sohohoteles.com | Pablo Gordillo / Xavi Gimeno (CMO) | 15 aperturas, submarca Moon Dreams, expansión Murcia |
-| 2 | Casa Mayor / Damel | damel@damel.com | Cristina Daries (Dir. Marketing) | Líneas gourmet #KE y Yummy Mix |
-| 3 | Nude Project | ana@nude-project.com | Alex Benlloch (CEO) | 11M€ ventas, flagship stores, escala internacional |
-| 4 | Bollo Natural Fruit | info@bollonaturalfruit.com | Eudoxia de la Peña (Dir. Mkt) | Premio Sabor del Año 2026 |
-| 5 | Picualia | info@picualia.com | Gerente cooperativa | Mejor AOVE España 2026 |
-| 6 | Mün Kombucha | hola@munkombucha.com | Fundador | Líder kombucha, inversión 150K€ planta |
-| 7 | Bodega Cerrón | comercial@vinacerron.com | Juanjo Cerdán | 100 pts Tim Atkin, Jumilla Región Año |
-| 8 | The Bank Hotel (MYR) | thebank@myrhotels.com | Dir. Marketing MYR | Apertura 5* Gran Lujo Valencia |
-| 9 | Sapphira Privé | info@sapphiraprive.com | Dir. Marketing Madrid | 70+ centros, 6 aperturas Madrid |
-| 10 | Tulaser | info@clinicastulaser.com | Verificar LinkedIn | 20+ clínicas + El Corte Inglés |
+| # | Empresa | Qué venderle | Decisor | ¿Por qué ahora? |
+|---|---------|-------------|---------|------------------|
+| 1 | Soho Boutique Hotels | Campañas apertura + Creatividad inauguraciones + Packaging amenities | Pablo Gordillo / Xavi Gimeno (CMO) | 15 aperturas, submarca Moon Dreams, expansión Murcia |
+| 2 | Casa Mayor / Damel | Rediseño packaging #KE y Yummy Mix + Campaña lanzamiento gourmet | Cristina Daries (Dir. Marketing) | Líneas gourmet #KE y Yummy Mix |
+| 3 | Nude Project | Creatividad pop-ups + Campañas drops + DA lookbooks | Alex Benlloch (CEO) | 11M€ ventas, flagship stores, escala internacional |
+| 4 | Bollo Natural Fruit | Rediseño packaging premium + PLV + Campaña Sabor del Año | Eudoxia de la Peña (Dir. Mkt) | Premio Sabor del Año 2026 |
+| 5 | Picualia | Etiquetas AOVE edición premio + Gift box + Campaña internacional | Gerente cooperativa | Mejor AOVE España 2026 |
+| 6 | Mün Kombucha | Packaging nueva gama sabores + Botellas + Campaña lanzamiento | Fundador | Líder kombucha, inversión 150K€ planta |
+| 7 | Bodega Cerrón | Etiquetas colección + Edición limitada Tim Atkin + Campaña Jumilla | Juanjo Cerdán | 100 pts Tim Atkin, Jumilla Región Año |
+| 8 | The Bank Hotel (MYR) | Campaña apertura 5* + Creatividad inauguración + Amenities lujo | Dir. Marketing MYR | Apertura 5* Gran Lujo Valencia |
+| 9 | Sapphira Privé | Campañas 6 aperturas Madrid + Creatividad inauguraciones + Packaging kits | Dir. Marketing Madrid | 70+ centros, 6 aperturas Madrid |
+| 10 | Tulaser | Campañas El Corte Inglés + Stands/corners retail + Packaging kits | Verificar LinkedIn | 20+ clínicas + El Corte Inglés |
 
 ---
 

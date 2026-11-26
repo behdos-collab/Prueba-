@@ -2,13 +2,19 @@
 
 *Estrategia de aproximación para las 10 mejores oportunidades*
 
-Fecha de generación: 20/11/2026
+Fecha de generación: 26/11/2026
 
 ---
 
 ## Metodología
 
-Para cada empresa se define: por qué interesa, qué necesita, qué ofrecer, cómo contactar y cuándo actuar.
+Para cada empresa se define: qué venderle (servicio concreto BUAS®), por qué ahora (momento de oportunidad), cómo contactar y cuándo actuar.
+
+**Servicios BUAS® que vendemos:**
+- **Packaging**: etiquetas, envases, cajas, displays, PLV, amenities
+- **Campañas de comunicación**: campañas creativas, social media, publicidad, lanzamientos
+- **Creatividad en eventos/festivales**: stands, escenografía, pop-ups, activaciones, inauguraciones
+- **Dirección de arte**: fotografía de producto, sesiones editoriales, vídeo
 
 ---
 
@@ -16,22 +22,20 @@ Para cada empresa se define: por qué interesa, qué necesita, qué ofrecer, có
 
 **Sector**: Hospitality | **Ciudad**: Málaga / Nacional | **Score**: 85/100
 
-**Por qué nos interesa**: Cadena hotelera malagueña en expansión agresiva: 15 nuevas aperturas planificadas 2025, entrada en Murcia (2027), tercer hotel en Marruecos (Casablanca 2026), nueva submarca Moon Dreams para vacacional. Necesita marca que soporte este crecimiento.
+**Qué venderle**:
+- **Campañas de apertura** para cada nuevo hotel (4-8K€/apertura)
+- **Creatividad inauguraciones** — concepto visual, escenografía, activación (3-6K€/evento)
+- **Packaging amenities** — diseño línea Soho Boutique + Moon Dreams (3-6K€/marca)
 
-**Momento de oportunidad**: Expansión: 15 nuevas aperturas en 2025, primera apertura en Murcia
+**Ticket total estimado**: 10.000-25.000€
 
-**Qué podría necesitar**: Branding, estrategia de marca, diferenciación de submarcas
+**Por qué ahora**: 15 nuevas aperturas, entrada en Murcia (2027), submarca Moon Dreams, expansión a Casablanca.
 
-**Ticket potencial**: 15.000 €+
+**Argumento de venta**: "Cada apertura es un evento. BUAS® crea la campaña visual y la experiencia de inauguración que convierte cada hotel en noticia."
 
-**Canal de contacto**: Web corporativa / LinkedIn
+**Canal**: LinkedIn (Xavi Gimeno, CMO) + info@sohohoteles.com
 
-**Preparación previa**:
-- Análisis visual de marca actual y puntos de mejora
-- Estudio de competidores directos
-- Preparar presentación personalizada con diagnóstico y propuesta de valor
-
-**Siguiente acción**: Preparar aproximación personalizada y contactar por vía corporativa
+**Qué preparar**: Moodboard campañas de apertura hotel. Referencia amenities premium. Mini propuesta apertura Murcia 2027.
 
 ---
 
@@ -39,22 +43,20 @@ Para cada empresa se define: por qué interesa, qué necesita, qué ofrecer, có
 
 **Sector**: Alimentación y Bebidas | **Ciudad**: Valencia | **Score**: 84/100
 
-**Por qué nos interesa**: Grupo familiar valenciano con 80+ años (Mercadalia/Damel Group) que lanza nuevas líneas gourmet (#KE, Yummy Mix, Tuenty). Transición de marca industrial a posicionamiento gourmet/premium que necesita nueva identidad visual coherente.
+**Qué venderle**:
+- **Rediseño packaging #KE** — bolsas snacks premium, displays, PLV (3-6K€)
+- **Rediseño packaging Yummy Mix** — formatos retail, displays (3-5K€)
+- **Campaña lanzamiento gourmet** — comunicación visual del salto industrial→premium (4-7K€)
 
-**Momento de oportunidad**: Lanzamiento nueva gama gourmet y mixes #KE
+**Ticket total estimado**: 8.000-18.000€
 
-**Qué podría necesitar**: Branding (línea gourmet), packaging, web
+**Por qué ahora**: Grupo de 80+ años lanzando líneas gourmet (#KE, Yummy Mix). El packaging actual es industrial, el producto es premium.
 
-**Ticket potencial**: 15.000 € +
+**Argumento de venta**: "El producto es premium pero el packaging no lo comunica. BUAS® diseña el packaging que posiciona #KE y Yummy Mix en el lineal gourmet."
 
-**Canal de contacto**: Email corporativo
+**Canal**: Email a Cristina Daries (damel@damel.com), Dir. Marketing
 
-**Preparación previa**:
-- Análisis visual de marca actual y puntos de mejora
-- Estudio de competidores directos
-- Preparar presentación personalizada con diagnóstico y propuesta de valor
-
-**Siguiente acción**: Preparar aproximación personalizada y contactar por vía corporativa
+**Qué preparar**: Análisis packaging actual #KE y Yummy Mix vs benchmark snacks premium. 2-3 conceptos visuales.
 
 ---
 
@@ -62,22 +64,20 @@ Para cada empresa se define: por qué interesa, qué necesita, qué ofrecer, có
 
 **Sector**: Moda y Lifestyle | **Ciudad**: Valencia | **Score**: 81/100
 
-**Por qué nos interesa**: Marca española de streetwear que ha superado 11M€ en ventas y abierto tiendas en Madrid, Barcelona, Valencia, Ibiza, Amsterdam, Milán, Lisboa y Nueva York.
+**Qué venderle**:
+- **Creatividad pop-ups y flagship** — diseño experiencial de tiendas (5-10K€)
+- **Campañas drops/colecciones** — comunicación visual de lanzamientos (3-6K€/drop)
+- **Dirección de arte lookbooks** — sesiones editoriales, fotografía (2-4K€/sesión)
 
-**Momento de oportunidad**: Crecimiento explosivo, expansión retail, apertura flagship
+**Ticket total estimado**: 10.000-20.000€
 
-**Qué podría necesitar**: Branding, estrategia, dirección de arte
+**Por qué ahora**: 11M€ ventas, 8+ países, flagship stores en expansión. Las tiendas son la marca.
 
-**Ticket potencial**: 10.000–25.000 €
+**Argumento de venta**: "Las tiendas son la marca. BUAS® crea experiencias de tienda, pop-ups y comunicación de drops que convierten cada apertura en un evento."
 
-**Canal de contacto**: Web corporativa / LinkedIn
+**Canal**: LinkedIn (Alex Benlloch, CEO) + ana@nude-project.com
 
-**Preparación previa**:
-- Análisis visual de marca actual y puntos de mejora
-- Estudio de competidores directos
-- Preparar presentación personalizada con diagnóstico y propuesta de valor
-
-**Siguiente acción**: Preparar aproximación personalizada y contactar por vía corporativa
+**Qué preparar**: Fotos tiendas actuales vs referentes experienciales. Concepto para próximo pop-up.
 
 ---
 
@@ -85,22 +85,20 @@ Para cada empresa se define: por qué interesa, qué necesita, qué ofrecer, có
 
 **Sector**: Alimentación y Bebidas | **Ciudad**: Murcia | **Score**: 80/100
 
-**Por qué nos interesa**: Una de las 5 marcas de fruta más reconocidas de España, con 12 centros de producción internacionales. Marca tradicional murciana que necesita evolución visual.
+**Qué venderle**:
+- **Rediseño packaging línea premio** — etiquetas, sellos, formatos premium retail (3-6K€)
+- **PLV y material punto de venta** — displays, stoppers, cartelería lineal (2-4K€)
+- **Campaña comunicación "Sabor del Año"** — redes sociales, publicidad retail, B2B (3-5K€)
 
-**Momento de oportunidad**: Premio Sabor del Año 2026
+**Ticket total estimado**: 8.000-15.000€
 
-**Qué podría necesitar**: Branding, web, packaging
+**Por qué ahora**: Premio Sabor del Año 2026. Top 5 marca de fruta en España. Empresa murciana = cercanía.
 
-**Ticket potencial**: 5.000–15.000 €
+**Argumento de venta**: "El premio es la puerta: BUAS® diseña el packaging y la comunicación que lo convierte en ventas en el punto de venta."
 
-**Canal de contacto**: Email corporativo
+**Canal**: Email/LinkedIn a Eudoxia de la Peña (Dir. Marketing)
 
-**Preparación previa**:
-- Análisis visual de marca actual y puntos de mejora
-- Estudio de competidores directos
-- Preparar presentación personalizada con diagnóstico y propuesta de valor
-
-**Siguiente acción**: Preparar aproximación personalizada y contactar por vía corporativa
+**Qué preparar**: Análisis packaging actual vs competidores premiados. Propuesta packaging "Sabor del Año".
 
 ---
 
@@ -108,45 +106,41 @@ Para cada empresa se define: por qué interesa, qué necesita, qué ofrecer, có
 
 **Sector**: Alimentación y Bebidas | **Ciudad**: Bailén, Jaén | **Score**: 78/100
 
-**Por qué nos interesa**: Cooperativa oleícola de Bailén (Jaén) galardonada con Premio Especial Alimentos de España 2026 al Mejor AOVE. Décimo aniversario de edición Primer Día de Cosecha.
+**Qué venderle**:
+- **Etiquetas edición "Mejor AOVE España"** — botella limitada conmemorativa (2.500-4K€)
+- **Packaging gift box premium** — caja regalo para gourmet, horeca y exportación (2-4K€)
+- **Campaña comunicación internacional** — storytelling del premio para mercados internacionales (2-4K€)
 
-**Momento de oportunidad**: Mejor AOVE de España 2026
+**Ticket total estimado**: 6.000-12.000€
 
-**Qué podría necesitar**: Branding, packaging, web, ecommerce
+**Por qué ahora**: Mejor AOVE de España 2026. Décimo aniversario Primer Día de Cosecha.
 
-**Ticket potencial**: 5.000–15.000 €
+**Argumento de venta**: "El Mejor AOVE de España merece la mejor etiqueta. BUAS® crea la edición especial y el packaging que eleva el premio a marca."
 
-**Canal de contacto**: Email corporativo
+**Canal**: Email (info@picualia.com)
 
-**Preparación previa**:
-- Análisis visual de marca actual y puntos de mejora
-- Estudio de competidores directos
-- Preparar presentación personalizada con diagnóstico y propuesta de valor
-
-**Siguiente acción**: Preparar aproximación personalizada y contactar por vía corporativa
+**Qué preparar**: Estudio etiquetas AOVE premium internacionales. Propuesta visual edición especial.
 
 ---
 
 ## 6. Mün Kombucha — Semana 2
 
-**Sector**: Alimentación y Bebidas | **Ciudad**: Barcelona, Cataluña | **Score**: 78/100
+**Sector**: Alimentación y Bebidas | **Ciudad**: Barcelona | **Score**: 78/100
 
-**Por qué nos interesa**: Marca líder de kombucha en España con crecimiento a doble dígito. Inversión de 150K€ en 2026 para ampliar capacidad en Mataró. Acuerdo con Sibbaris Privée.
+**Qué venderle**:
+- **Packaging nueva gama sabores** — etiquetas/botellas para planta ampliada (3-6K€)
+- **Sistema packaging escalable** — sistema gráfico 10+ sabores sin perder coherencia (2-4K€)
+- **Campaña lanzamiento gama** — comunicación nuevos sabores (2-4K€)
 
-**Momento de oportunidad**: Crecimiento a doble dígito, novedades próximas que podrían abrir nueva categoría
+**Ticket total estimado**: 6.000-14.000€
 
-**Qué podría necesitar**: Branding, packaging, web
+**Por qué ahora**: 150K€ inversión nueva planta. Nuevos sabores y formatos. Acuerdo Sibbaris Privée.
 
-**Ticket potencial**: 5.000–15.000 €
+**Argumento de venta**: "Nueva planta = nuevos formatos y sabores. BUAS® diseña el sistema de packaging que crece con la marca."
 
-**Canal de contacto**: Email corporativo
+**Canal**: Email (hola@munkombucha.com)
 
-**Preparación previa**:
-- Análisis visual de marca actual y puntos de mejora
-- Estudio de competidores directos
-- Preparar presentación personalizada con diagnóstico y propuesta de valor
-
-**Siguiente acción**: Preparar aproximación personalizada y contactar por vía corporativa
+**Qué preparar**: Mapa gama actual vs nuevos sabores. Benchmark packaging bebidas saludables.
 
 ---
 
@@ -154,22 +148,20 @@ Para cada empresa se define: por qué interesa, qué necesita, qué ofrecer, có
 
 **Sector**: Alimentación y Bebidas | **Ciudad**: Fuente Álamo, Murcia | **Score**: 77/100
 
-**Por qué nos interesa**: Bodega de Jumilla en pleno ascenso internacional: El Cerrico 2024 alcanza 100 puntos Tim Atkin (segunda vez), Matas Altas Blanco 94+ Parker, 96 Lobenberg. Jumilla nombrada Región del Año 2026. Producto de clase mundial que necesita marca a la misma altura.
+**Qué venderle**:
+- **Rediseño etiquetas colección** — El Cerrico, La Servil, Stratum, tintos y blancos (3-5K€)
+- **Packaging edición limitada Tim Atkin** — estuche, contraetiqueta, caja de madera (2-4K€)
+- **Campaña "Jumilla Región del Año"** — comunicación redes, horeca, eventos (1.500-3K€)
 
-**Momento de oportunidad**: Crecimiento, reconocimiento en Decanter, nuevas líneas premium
+**Ticket total estimado**: 5.000-10.000€
 
-**Qué podría necesitar**: Branding integral (unificación de líneas), web, packaging
+**Por qué ahora**: 100 puntos Tim Atkin. Jumilla Región del Año 2026. Producto world-class.
 
-**Ticket potencial**: 5.000–15.000 €
+**Argumento de venta**: "100 puntos Tim Atkin y Jumilla Región del Año. BUAS® crea etiquetas y packaging a la altura del producto. Y somos de aquí."
 
-**Canal de contacto**: Email corporativo, LinkedIn
+**Canal**: Email (comercial@vinacerron.com) o contacto directo Juanjo Cerdán. **Ventaja: BUAS® es de Murcia.**
 
-**Preparación previa**:
-- Análisis visual de marca actual y puntos de mejora
-- Estudio de competidores directos
-- Preparar presentación personalizada con diagnóstico y propuesta de valor
-
-**Siguiente acción**: Preparar aproximación personalizada y contactar por vía corporativa
+**Qué preparar**: Moodboard etiquetas premium. Concepto edición limitada 100 pts.
 
 ---
 
@@ -177,77 +169,85 @@ Para cada empresa se define: por qué interesa, qué necesita, qué ofrecer, có
 
 **Sector**: Hospitality | **Ciudad**: Valencia | **Score**: 77/100
 
-**Por qué nos interesa**: Hotel 5 estrellas Gran Lujo (The Bank Hotel GL) en Valencia. 102 habitaciones en antiguo edificio Banco de Valencia. Apertura otoño 2026.
+**Qué venderle**:
+- **Campaña apertura The Bank Hotel** — comunicación pre-opening y lanzamiento (5-8K€)
+- **Creatividad evento inauguración** — concepto visual, escenografía, invitaciones (3-6K€)
+- **Packaging amenities lujo** — línea amenities 5* Gran Lujo (3-6K€)
 
-**Momento de oportunidad**: Nueva apertura: Hotel 5 estrellas Gran Lujo previsto primer trimestre 2026
+**Ticket total estimado**: 10.000-20.000€
 
-**Qué podría necesitar**: Branding completo, naming, web, dirección de arte
+**Por qué ahora**: Nuevo 5* Gran Lujo en Valencia. Edificio histórico (antiguo Banco de Valencia). 102 habitaciones.
 
-**Ticket potencial**: 15.000 €+
+**Argumento de venta**: "Una apertura 5* Gran Lujo es un evento de primer nivel. BUAS® crea la campaña, la experiencia de inauguración y el packaging amenities."
 
-**Canal de contacto**: Web corporativa / LinkedIn
+**Canal**: Email (thebank@myrhotels.com) + LinkedIn Dir. Marketing MYR
 
-**Preparación previa**:
-- Análisis visual de marca actual y puntos de mejora
-- Estudio de competidores directos
-- Preparar presentación personalizada con diagnóstico y propuesta de valor
-
-**Siguiente acción**: Preparar aproximación personalizada y contactar por vía corporativa
+**Qué preparar**: Referentes campañas apertura 5*. Benchmark amenities lujo.
 
 ---
 
 ## 9. Sapphira Privé — Semana 3
 
-**Sector**: Cosmética y Belleza | **Ciudad**: España (más de 70 centros) | **Score**: 76/100
+**Sector**: Cosmética y Belleza | **Ciudad**: España (70+ centros) | **Score**: 76/100
 
-**Por qué nos interesa**: Cadena de clínicas estéticas con 70+ centros en España, 16+ años. Presencia en Portugal y USA. Expansión constante con aperturas recientes en Madrid y Alicante.
+**Qué venderle**:
+- **Campañas 6 aperturas Madrid** — campaña paraguas + adaptación local (4-8K€)
+- **Creatividad inauguraciones** — eventos, invitaciones, activación (2-4K€/centro)
+- **Packaging kits producto/bienvenida** — estuches, bolsas de marca premium (2-4K€)
 
-**Momento de oportunidad**: 6 nuevas aperturas en Comunidad de Madrid, expansión constante
+**Ticket total estimado**: 8.000-16.000€
 
-**Qué podría necesitar**: Branding, identidad, web, comunicación, señalética
+**Por qué ahora**: 6 nuevas aperturas simultáneas en Madrid. Competencia creciente (Dorsia, Elha).
 
-**Ticket potencial**: 15.000 €+
+**Argumento de venta**: "6 aperturas en Madrid = una campaña potente. BUAS® crea la comunicación y experiencia que diferencia de Dorsia y Elha."
 
-**Canal de contacto**: Web corporativa / LinkedIn
+**Canal**: LinkedIn / web al Dir. Marketing
 
-**Preparación previa**:
-- Análisis visual de marca actual y puntos de mejora
-- Estudio de competidores directos
-- Preparar presentación personalizada con diagnóstico y propuesta de valor
-
-**Siguiente acción**: Preparar aproximación personalizada y contactar por vía corporativa
+**Qué preparar**: Análisis identidad centros actuales. Plan comunicación multi-apertura.
 
 ---
 
 ## 10. Tulaser — Semana 4
 
-**Sector**: Cosmética y Belleza | **Ciudad**: España (más de 20 centros) | **Score**: 74/100
+**Sector**: Cosmética y Belleza | **Ciudad**: España (20+ centros) | **Score**: 74/100
 
-**Por qué nos interesa**: Identidad visual genérica sin diferenciación de otras cadenas
+**Qué venderle**:
+- **Campañas El Corte Inglés** — cartelería, pantallas, material POS, promociones (3-6K€)
+- **Creatividad stands/corners** — diseño corner El Corte Inglés (3-5K€)
+- **Packaging kits tratamiento** — estuches, material corporativo (2-3K€)
 
-**Momento de oportunidad**: Expansión con más de 20 clínicas propias en España
+**Ticket total estimado**: 6.000-14.000€
 
-**Qué podría necesitar**: Branding, identidad, web, comunicación, señalética
+**Por qué ahora**: 20+ clínicas + presencia en El Corte Inglés. Corner retail necesita presencia visual de primer nivel.
 
-**Ticket potencial**: 10.000–15.000 €
+**Argumento de venta**: "Estar en El Corte Inglés requiere imagen top. BUAS® diseña stands y campañas que convierten visitas en tratamientos."
 
-**Canal de contacto**: Web corporativa / LinkedIn
+**Canal**: LinkedIn (buscar Dir. Marketing) + info@clinicastulaser.com
 
-**Preparación previa**:
-- Análisis visual de marca actual y puntos de mejora
-- Estudio de competidores directos
-- Preparar presentación personalizada con diagnóstico y propuesta de valor
-
-**Siguiente acción**: Preparar aproximación personalizada y contactar por vía corporativa
+**Qué preparar**: Análisis corners El Corte Inglés competencia. Referentes stands retail belleza.
 
 ---
 
 ## Calendario resumen
 
-| Semana | Empresas | Acciones |
-|--------|----------|----------|
-| 1 | Soho Boutique Hotels, Casa Mayor / #KE, Nude Project | Investigación + contacto inicial |
-| 2 | Bollo, Picualia, Mün Kombucha | Investigación + contacto inicial |
-| 3 | Cerrón / Stratum Wines, The Bank Hotel, Sapphira Privé | Investigación + contacto inicial |
-| 4 | Tulaser + seguimiento | Follow-up semanas 1-3 |
+| Semana | Empresas | Servicio principal | Ticket total sem. |
+|--------|----------|--------------------|-------------------|
+| 1 | Soho, Casa Mayor/#KE, Nude Project | Campañas + Packaging + Creatividad pop-ups | 28-63K€ |
+| 2 | Bollo, Picualia, Mün | Packaging + Campañas comunicación | 20-41K€ |
+| 3 | Cerrón, The Bank, Sapphira | Packaging etiquetas + Campañas apertura + Inauguraciones | 23-46K€ |
+| 4 | Tulaser + follow-up | Stands/corners + Campañas retail | 6-14K€ + seguimiento |
 
+**Pipeline total top 10**: 75.000-165.000€
+
+---
+
+## Próximos pasos tras las 4 semanas
+
+1. **Empresas 11-30** (Prioridad B): Olivex, Frinsa, Laus, Simón Coll, Dardo, Banbu, Eme Studios, Aroa, Basqueland, Essentia, Calasparra, Comando G, Jaleo AOVE, Coato, CCVK, Maychoco, El Nogal, Aquí Tu Reforma, Les Alcusses, Nutriva
+2. **Empresas 31-50** (Prioridad B/C): Tukán, Gastro Trinquet, Slowwalk, Odda, Nomad Coffee, Aneto, Carchelo, Jimbofresh, Casual Hoteles, Evaristo 33, Barahonda, Kombucha Republik, Qida, Arkhé, Confidencia, Hola Coffee, Chocolate Moro, Torrons Vicens, Starlite, Besai
+
+---
+
+*BUAS® Growth Intelligence & Opportunity Detection System v2.1*
+*Generado: 26 de noviembre de 2026*
+*Clasificación: CONFIDENCIAL — Uso interno BUAS®*
